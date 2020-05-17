@@ -1,5 +1,6 @@
 import math
 a='301.4' #string
+
 b=float(a) #converts string data type to floating point number.
 c=float(121) #converts integer data type to floating point number.
 print("b=",b)
