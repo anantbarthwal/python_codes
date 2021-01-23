@@ -15,10 +15,10 @@ def fact(num):
         return num*fact(num-1)
 num=int(input("enter anynumber= "))
 print("factorial of ",num,"=",fact(num))  
-print("fact sum",fact(5)+fact(4))   
+#print("fact sum",fact(5)+fact(4))   
 
 
-print(pow(2,3))   
+"""print(pow(2,3))   
 
 def power(n, s): #2,3
     if s== 0:
@@ -28,4 +28,4 @@ def power(n, s): #2,3
 
 print( power(2,3))
 
-                                                                        
+  """                                                                      
